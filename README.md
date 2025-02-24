@@ -7,7 +7,7 @@ Fullstack Developer
 Recently graduated.
 
 *   🌍  I'm based in Paris
-*   🚀  I've recently worked on a  new project of a chat application. 
+*   🚀  I'm currently working on an ecommerce web application using React.js + Typescript + TailwindCss. 
 *   🧠  I'm continously practicing by creating new projects.<a href="https://www.github.com/Fatou-hub" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Fatou-hub?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>### Skills 
 <p align="left">
