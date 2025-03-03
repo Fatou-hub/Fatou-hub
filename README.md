@@ -71,12 +71,11 @@ Recently graduated.
 
 ---
 
-### 🎨 E-commerce App ⚒️⚒️⚒️⚒️![HammerKrzysztofGIF](https://github.com/user-attachments/assets/3478bc02-ece4-487b-a073-6e09087ad0c0)
+### 🎨 E-commerce App
  
 📌 **Stacks** : React, TailwindCSS, Typescript, mongoDB
-📌 **Description** : an e-commerce website displaying babies articles in progress.. 
+📌 **Description** : an e-commerce website displaying babies articles 
 
-### 🖼️ Project overview
-....in progress......🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️
+![HammerKrzysztofGIF](https://github.com/user-attachments/assets/3478bc02-ece4-487b-a073-6e09087ad0c0) 🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️
                     
 
