@@ -34,7 +34,7 @@ Recently graduated.
 
 ### 🎨 Gym Application  
 📌 **Stacks** : Typescript, TailwindCss, vite
-📌 **Description** : .  
+📌 **Description** : static project released with typescript displaying different sections on a single page .  
 
 ### 🖼️ Project overview
 <img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/gym_homepage.png" width="30%"/>  
