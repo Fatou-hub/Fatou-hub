@@ -51,8 +51,12 @@ Recently graduated.
 📌 **Description** : music streaming site allowing you to display songs, filter sound searches by genre, access without data persistence from rapidAPI.  
 
 ### 🖼️ Project overview
-<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/musify_discover_component.png" width="45%"/>  
-
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/musify_discover_component.png" width="45%"/>
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/musify_discover_component_2.png" width="45%"/>
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/musify_discover_component_3.png" width="45%"/>
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/musify_filter_component.png" width="45%"/>
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/musify_topartist_component.png" width="45%"/>
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/musify_aroundyou_component.png" width="45%"/>
 
 ---
 
