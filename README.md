@@ -51,7 +51,7 @@ Recently graduated.
 📌 **Description** : music streaming site allowing you to display songs, filter sound searches by genre, access without data persistence from rapidAPI.  
 
 ### 🖼️ Project overview
-<img src="https://raw.githubusercontent.com/Fatou-hub/nom-du-repo/main/images/musify_discover_component.png" width="45%"/>  
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/musify_discover_component.png" width="45%"/>  
 
 
 ---
@@ -61,9 +61,9 @@ Recently graduated.
 📌 **Description** : a Gherkin dictionary with Drag and Drop functionality of step definitions. .  
 
 ### 🖼️ Project overview
-<img src="https://raw.githubusercontent.com/Fatou-hub/nom-du-repo/main/images/gherkin_homepage_component.png" width="45%"/>  
-<img src="https://raw.githubusercontent.com/Fatou-hub/nom-du-repo/main/images/gherkin_header_component.png" width="45%"/>  
-<img src="https://raw.githubusercontent.com/Fatou-hub/nom-du-repo/main/images/gherkin_drag_and_drop-page_component.png" width="45%"/> 
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/gherkin_homepage_component.jpg" width="45%"/>  
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/gherkin_header_component.jpg" width="45%"/>  
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/gherkin_drag_and_drop-page_component.jpg" width="45%"/> 
 
 
 
