@@ -24,10 +24,11 @@ Recently graduated.
 📌 **Description** : It is a real time chat application allowing to create channel and direct messages, upload and download files, sending them, search for contacts, upload and download images.  
 
 ### 🖼️ Project overview  
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/image__pour_word.png" width="45%"/>  
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/profil_page.png" width="45%"/>  
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/DM_modal_window_search_contact_picture_watch.png" width="45%"/>  
 <img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/DM_modal_window_search_contact_2.png" width="45%"/>  
-<img src="https://raw.githubusercontent.com/Fatou-hub/nom-du-repo/main/images/ecommerce2.png" width="45%"/>  
-<img src="https://raw.githubusercontent.com/Fatou-hub/nom-du-repo/main/images/ecommerce3.png" width="45%"/>  
-<img src="https://raw.githubusercontent.com/Fatou-hub/nom-du-repo/main/images/ecommerce4.png" width="45%"/>  
+ 
 
 ---
 
