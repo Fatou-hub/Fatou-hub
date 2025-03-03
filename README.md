@@ -37,10 +37,12 @@ Recently graduated.
 📌 **Description** : .  
 
 ### 🖼️ Project overview
-<img src="https://raw.githubusercontent.com/Fatou-hub/nom-du-repo/main/images/ecommerce1.png" width="45%"/>  
-<img src="https://raw.githubusercontent.com/Fatou-hub/nom-du-repo/main/images/ecommerce2.png" width="45%"/>  
-<img src="https://raw.githubusercontent.com/Fatou-hub/nom-du-repo/main/images/ecommerce3.png" width="45%"/>  
-<img src="https://raw.githubusercontent.com/Fatou-hub/nom-du-repo/main/images/ecommerce4.png" width="45%"/> 
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/gym_homepage.png" width="30%"/>  
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/gym_homepage_2.png" width="30%"/>  
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/gym_homepage_3.png" width="30%"/>  
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/gym_homepage_4.png" width="30%"/> 
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/gym_homepage_5.png" width="30%"/>  
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/gym_footer.png" width="30%"/>  
 
 ---
 
