@@ -46,15 +46,25 @@ Recently graduated.
 
 ---
 
-### 🎨 Gerkhin Dictionary  
-📌 **Stacks** : React.js, TailwindCSS, Python, MongoDB Docker,
-📌 **Description** : .  
+### 🎨 Musify Project  
+📌 **Stacks** : React.js, TailwindCSS, redux, toolkit, rapidAPI
+📌 **Description** : music streaming site allowing you to display songs, filter sound searches by genre, access without data persistence from rapidAPI.  
 
 ### 🖼️ Project overview
-<img src="https://raw.githubusercontent.com/Fatou-hub/nom-du-repo/main/images/ecommerce1.png" width="45%"/>  
-<img src="https://raw.githubusercontent.com/Fatou-hub/nom-du-repo/main/images/ecommerce2.png" width="45%"/>  
-<img src="https://raw.githubusercontent.com/Fatou-hub/nom-du-repo/main/images/ecommerce3.png" width="45%"/>  
-<img src="https://raw.githubusercontent.com/Fatou-hub/nom-du-repo/main/images/ecommerce4.png" width="45%"/> 
+<img src="https://raw.githubusercontent.com/Fatou-hub/nom-du-repo/main/images/musify_discover_component.png" width="45%"/>  
+
+
+---
+
+### 🎨 Gerkhin Dictionary  
+📌 **Stacks** : React.js, TailwindCSS, Python, MongoDB Docker,
+📌 **Description** : a Gherkin dictionary with Drag and Drop functionality of step definitions. .  
+
+### 🖼️ Project overview
+<img src="https://raw.githubusercontent.com/Fatou-hub/nom-du-repo/main/images/gherkin_homepage_component.png" width="45%"/>  
+<img src="https://raw.githubusercontent.com/Fatou-hub/nom-du-repo/main/images/gherkin_header_component.png" width="45%"/>  
+<img src="https://raw.githubusercontent.com/Fatou-hub/nom-du-repo/main/images/gherkin_drag_and_drop-page_component.png" width="45%"/> 
+
 
 
                     </p>
