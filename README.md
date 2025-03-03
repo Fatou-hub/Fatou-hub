@@ -69,8 +69,14 @@ Recently graduated.
 <img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/gherkin_header_component.jpg" width="45%"/>  
 <img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/gherkin_drag_and_drop-page_component.jpg" width="45%"/> 
 
+---
 
+### 🎨 E-commerce App ⚒️⚒️⚒️⚒️![HammerKrzysztofGIF](https://github.com/user-attachments/assets/3478bc02-ece4-487b-a073-6e09087ad0c0)
+ 
+📌 **Stacks** : React, TailwindCSS, Typescript, mongoDB
+📌 **Description** : an e-commerce website displaying babies articles in progress.. 
 
-                    </p>
+### 🖼️ Project overview
+....in progress......🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️
                     
 
