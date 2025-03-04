@@ -28,6 +28,7 @@ Recently graduated.
 <img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/profil_page.png" width="30%"/>  
 <img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/DM_modal_window_search_contact_picture_watch.png" width="30%"/>  
 <img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/DM_modal_window_search_contact_2.png" width="30%"/>  
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/chat-page-channel.png" width="30%"/> 
  
 
 ---
