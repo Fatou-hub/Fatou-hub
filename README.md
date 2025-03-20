@@ -77,6 +77,11 @@ Recently graduated.
 📌 **Stacks** : React, TailwindCSS, Typescript, mongoDB
 📌 **Description** : an e-commerce website displaying babies articles 
 
-![HammerKrzysztofGIF](https://github.com/user-attachments/assets/3478bc02-ece4-487b-a073-6e09087ad0c0) 🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️ IN PROGRESS
+🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️ IN PROGRESS
+
+### 🖼️ Project overview
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/homepage_ecommerce.png" width="45%"/>  
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/singleproductpage_ecommerce.png" width="45%"/>  
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/cartproductlist_ecommerce.png" width="45%"/> 
                     
 
