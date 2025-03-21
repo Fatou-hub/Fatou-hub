@@ -72,6 +72,16 @@ Recently graduated.
 
 ---
 
+### 🎨 Tic Tac Toe Game 
+📌 **Stacks** : HTML, CSS, Javascript
+📌 **Description** : A Tic-Tac-Toe Game.  
+
+### 🖼️ Project overview
+<img src="https://raw.githubusercontent.com/Fatou-hub/Fatou-hub/main/images/tic_tac_toe.png" width="45%"/> 
+
+🎮 LET'S PLAY A LITTLE 🕹️  CLICK HERE : https://fatou-hub.github.io/Tic_Tac_Toe_Game/
+---
+
 ### 🎨 E-commerce App
  
 📌 **Stacks** : React, TailwindCSS, Typescript, mongoDB
